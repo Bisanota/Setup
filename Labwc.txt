@@ -4,6 +4,65 @@ alacritty
 
 
 
+waybar
+wofi
+mako
+swatbg
+swaylock
+swaylock-effects
+wl-clipboard
+grim + slurp
+
+pacman -S labwc waybar wofi mako wl-clipboard swaybg grim slurp swaylock-effects
+bemenu bemenu-wayland
+
+
+----
+-
+bemenu
+waybar
+mako
+wl-clipboard
+swaybg
+grim slurp
+swaylock
+swaylock-effects
+
+connman
+alsa-utils // pipewire pipewire-alsa
+brightnessctl
+wpa_supplicant iwd
+
+
+labwc
+bemenu-wayland
+yambar
+mako
+wl-clipboard
+swaybg
+grim
+slurp
+swaylock
+alsa-utils
+wpa_supplicant
+iwd
+dhcpcd
+
+
+
+labwc
+bemenu
+yambar
+mako
+wl-clipboard
+swaybg
+grim
+slurp
+swaylock
+
+
+-
+---
 // Stolen from MeinArchInstaller/postinstaller.sh from my github
 multimedia="alsa-utils alsa-plugins alsa-firmware alsa-oss pipewire pipewire-alsa pipewire-pulse pipewire-jack wireplumber pavucontrol ffmpeg gst-plugins-base gst-plugins-good gst-plugins-bad gst-plugins-ugly gst-libav mpv vlc vulkan-tools elisa intel-media-driver libva-intel-driver vulkan-intel libvdpau-va-gl"
 appsPersonales="kdenlive musescore audacity gimp inkscape digikam darktable blender krita libreoffice-fresh obs-studio"
