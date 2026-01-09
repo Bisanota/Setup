@@ -1,1 +1,8 @@
 hyrpland kitty sddm plymouth dolphin hyprlauncher mako pipewire wireplumber qt5_wayland qt6_wayland noto-fonts ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-ubuntu-nerd ttf-ubuntu-mono-ner waybar otf-font-awesome pavucontrol blueman hyprpaper hypridle hyprlock hyprshot hyprpicker wlogout wlr-randr waybar fuzzel
+
+
+hyprpm update
+
+hyprpm add https://github.com/hyprwm/hyprland-plugins
+
+hyprpm enable hyprbars
